@@ -1,0 +1,54 @@
+h1{
+	text-align: center;
+	font-size:;
+	font-family: Arial, Calibri, Times new Roman; 
+
+}
+
+.div1{
+	width: 50%;
+	height: 800px;
+	background-color: white;
+	border: 10px solid #E80587;
+	border-radius: 12px;
+	padding: 0px;
+	margin: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow-y: scroll; 
+}
+
+.divInput{
+	width: 500px;
+	border: 0px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.divButton{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80px;
+	border: 0px solid black;
+}
+
+p{
+	font-family: Arial, Calibri, Times new Roman;
+	text-align: justify;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+label{
+	font-family: Arial, Calibri, Times new Roman;
+	color: white;
+	text-align: justify;
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#aceitar1{
+	margin: 10px;
+}
